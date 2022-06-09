@@ -11,6 +11,12 @@ body{
     padding: .2em;
     background-image: paint(simonbg);
   }
+
+  p{
+      padding: 2em 0;
+      background-image: paint(simonbg);
+      --number-of-circles: 15;
+  }
   
   .container{
     width: 300px;
